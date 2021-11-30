@@ -1,0 +1,14 @@
+logs/
+bundles/
+node_modules/
+coverage/
+.idea/
+run/
+.DS_Store
+*.sw*
+*.un~
+.vscode/
+*.map
+*.jsx
+*.log
+dist/

@@ -1,0 +1,47 @@
+{
+  "name": "@hansin/@hansin/lint-config",
+  "version": "2.3.3",
+  "description": "@hansin/lint-config",
+  "main": "browser.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "zhangkai",
+  "engines": {
+    "node": ">=10.13.0"
+  },
+  "peerDependencies": {
+    "typescript": ">=3.7.0"
+  },
+  "dependencies": {
+    "@babel/core": "^7.14.6",
+    "@babel/eslint-parser": "^7.14.5",
+    "@typescript-eslint/eslint-plugin": "^4.14.1",
+    "@typescript-eslint/parser": "^4.14.1",
+    "eslint": "^7.29.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-react": "^7.22.0",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "eslint-plugin-security": "^1.4.0",
+    "stylelint": "^13.6.1",
+    "stylelint-config-prettier": "^8.0.2",
+    "stylelint-config-rational-order": "^0.1.2",
+    "stylelint-config-standard": "^20.0.0",
+    "stylelint-declaration-block-no-ignored-properties": "^2.3.0",
+    "stylelint-order": "^4.1.0",
+    "stylelint-scss": "^3.18.0"
+  },
+  "devDependencies": {
+    "mocha": "^9.0.1",
+    "typescript": "^4.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hansinhu/lint-config.git"
+  },
+  "maintainers": [{
+    "name": "hansin",
+    "email": "hansincn@gmail.com"
+  }],
+  "license": "ISC"
+}
