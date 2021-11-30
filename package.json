@@ -1,6 +1,6 @@
 {
-  "name": "@hansin/@hansin/lint-config",
-  "version": "2.3.3",
+  "name": "@hansin/lint-config",
+  "version": "0.0.1",
   "description": "@hansin/lint-config",
   "main": "browser.js",
   "scripts": {
